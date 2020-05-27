@@ -1,3 +1,10 @@
+# jenkins-docker-container jenkinsfile
+# This will be used to deploy jenkins, docker, and applications when fully built out.
+# As of 5/26/2020, still a work in progress to determine best format of terraofrm main files as well as modules.
+
+
+
+
 pipeline {
     agent any
     tools {
